@@ -1,0 +1,9 @@
+{
+  "elementName":"File Upload",  
+  "urlPath":"upload",
+  "fileUploadedText":"File Uploaded!",
+  "fileName":"empty.txt",
+  "filePath":"cypress\\downloads\\empty.txt",
+  "expectedTitle": "File Uploader"
+}
+

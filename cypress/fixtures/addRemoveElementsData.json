@@ -1,0 +1,8 @@
+{
+    "elementName":"Add/Remove Elements",  
+    "urlPath":"add_remove_elements",
+    "addElementButtonText":"Add Element",
+    "deleteButtonText":"Delete",
+    "expectedTitle": "Add/Remove Elements"
+  
+  }

@@ -1,0 +1,8 @@
+{
+  "elementName":"Dropdown",  
+  "urlPath":"dropdown",
+  "expectedTitle": "Dropdown List",
+  "dropDownText1":"Option 1",
+  "dropDownText2":"Option 2",
+  "defaultValue":"Please select an option"
+}

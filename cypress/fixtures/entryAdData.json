@@ -1,0 +1,7 @@
+{
+  "elementName":"Entry Ad",  
+  "urlPath":"entry_ad",
+  "modalClose":"Close",
+  "modalTitleText":"This is a modal window",
+  "expectedTitle": "Entry Ad"
+}

@@ -9,6 +9,9 @@
   "author": "Shraddha",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^12.17.4"
+    "@4tw/cypress-drag-drop": "^2.2.5",
+    "cy-verify-downloads": "^0.2.2",
+    "cypress": "^12.17.4",
+    "cypress-iframe": "^1.0.1"
   }
 }

@@ -1,0 +1,7 @@
+{
+    "elementName":"Exit Intent",  
+    "urlPath":"exit_intent",
+    "modalClose":"Close",
+    "modalTitleText":"This is a modal window",
+    "expectedTitle": "Exit Intent"
+  }

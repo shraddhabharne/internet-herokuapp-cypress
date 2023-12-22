@@ -1,0 +1,6 @@
+{
+  "elementName":"File Download",  
+  "urlPath":"download",
+  "href":"some-file.txt",  
+  "expectedTitle": "File Downloader"
+}

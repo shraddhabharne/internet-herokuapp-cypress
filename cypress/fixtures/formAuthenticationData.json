@@ -1,0 +1,12 @@
+{
+    "elementName":"Form Authentication",  
+    "urlPath":"login",  
+    "expectedTitle": "Login Page",
+    "user":"tomsmith",
+    "password":"SuperSecretPassword!",
+    "successMessage":"You logged into a secure area!",
+    "loggedOutMessage":" You logged out of the secure area!",
+    "errorMessage":" Your username is invalid!",
+    "newSecureUrl":"secure",
+    "secureTitle":"Secure Area"
+  }

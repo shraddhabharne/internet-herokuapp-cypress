@@ -1,0 +1,9 @@
+{
+    "elementName":"Nested Frames",  
+    "urlPath":"nested_frames",
+    "iFrameDataLeft": "LEFT",
+    "iFrameDataRight": "RIGHT",
+    "iFrameDataMiddle": "MIDDLE",
+    "iFrameDataBottom": "BOTTOM",
+    "expectedTitle": ""
+  }
