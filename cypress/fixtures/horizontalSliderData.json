@@ -1,0 +1,9 @@
+{
+    "elementName":"Horizontal Slider",  
+    "urlPath":"horizontal_slider",
+    "minRange":"0.0",
+    "midRange":"2.5",
+    "maxRange":"5",
+    "expectedTitle": "Horizontal Slider"
+  
+  }

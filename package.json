@@ -13,5 +13,8 @@
     "cy-verify-downloads": "^0.2.2",
     "cypress": "^12.17.4",
     "cypress-iframe": "^1.0.1"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.11.0"
   }
 }

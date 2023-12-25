@@ -1,0 +1,9 @@
+{
+    "elementName":"Hovers",  
+    "urlPath":"hovers",
+    "expectedTitle": "Hovers",
+    "hiddenTitlePart":"name: user",
+    "profileUrlPart":"users/",
+    "hiddenLinkText":"View profile"
+    
+  }
