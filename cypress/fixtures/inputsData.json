@@ -1,0 +1,8 @@
+{
+    "elementName":"Inputs",  
+    "urlPath":"inputs",
+    "expectedTitle": "Inputs",
+    "inputValue":5,
+    "incrementValue":10,
+    "decrementValue":20
+}

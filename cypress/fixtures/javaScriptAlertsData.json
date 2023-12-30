@@ -1,0 +1,16 @@
+{
+    "elementName":"JavaScript Alerts",  
+    "urlPath":"javascript_alerts",   
+    "expectedTitle": "JavaScript Alerts",
+    "alertButton":"Click for JS Alert",
+    "alertMessage":"I am a JS Alert",
+    "confirmButton":"Click for JS Confirm",
+    "confirmMessage":"I am a JS Confirm",
+    "promptButton":"Click for JS Prompt",
+    "resultAlertText":"You successfully clicked an alert",
+    "resultConfirmText":"You clicked: Ok",
+    "resultCancelText":"You clicked: Cancel",
+    "enterPromptText":"Hello Shraddha",
+    "resultPromptMessage":"You entered: ",
+    "resultPromptCancelMessage":"You entered: null"
+}

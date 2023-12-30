@@ -1,0 +1,12 @@
+{
+    "elementName":"JQuery UI Menus",  
+    "urlPath":"jqueryui/menu",
+    "expectedTitle": "JQueryUI - Menu",
+    "menuNamePDF":"PDF",
+    "menuNameCSV":"CSV",
+    "menuNameExcel":"Excel",
+    "invisibleItem":"Should not see this",
+    "backToJQueryUrl":"jqueryui",
+    "backToJQueryLink":"Menu"
+   
+}
