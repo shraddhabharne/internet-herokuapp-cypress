@@ -1,0 +1,27 @@
+{
+    "elementName":"Key Presses",  
+    "urlPath":"key_presses",
+    "expectedTitle": "Key Presses",
+    "keyPairValues": [
+		{
+			"keyPressed": "PAGE_UP",
+			"keyCode": 33
+		},
+		{
+			"keyPressed": "H",
+			"keyCode": 72
+		},
+		{
+			"keyPressed": "BACK_SPACE",
+			"keyCode": 8
+		},
+		{
+			"keyPressed": "0",
+			"keyCode": 48
+		},
+		{
+			"keyPressed": "DOWN",
+			"keyCode": 40
+		}
+	]
+}
