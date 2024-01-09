@@ -1,0 +1,9 @@
+{
+    "elementName":"Multiple Windows",  
+    "urlPath":"windows",
+    "expectedTitle": "Opening a new window",
+    "clickHereLink":"Click Here",
+    "urlPathOfNewWindow":"/windows/new",
+    "expectedTitleOfNewWindow":"New Window"
+  
+}

@@ -26,6 +26,7 @@
 import formAuthentication from "../fixtures/formAuthenticationData.json"
 import formAuthenticationCommand from "./stepObjects/formAuthenticationCommands";
 import 'cypress-iframe';
+import 'cypress-map';
 
 require('@4tw/cypress-drag-drop')
 require ('cy-verify-downloads').addCustomCommand();

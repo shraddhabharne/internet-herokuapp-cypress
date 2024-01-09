@@ -1,0 +1,9 @@
+{
+    "elementName":"Sortable Data Tables",  
+    "urlPath":"tables",
+    "expectedTitle": "Data Tables",
+    "tableHeading": ["Last Name","First Name","Email","Due","Web Site","Action"],
+    "targetWebsiteForEdit":"http://www.jdoe.com",
+    "actionType":"edit",
+    "tableLength":"4"
+}

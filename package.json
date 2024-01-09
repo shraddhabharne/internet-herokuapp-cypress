@@ -12,7 +12,8 @@
     "@4tw/cypress-drag-drop": "^2.2.5",
     "cy-verify-downloads": "^0.2.2",
     "cypress": "^12.17.4",
-    "cypress-iframe": "^1.0.1"
+    "cypress-iframe": "^1.0.1",
+    "cypress-map": "^1.22.0"
   },
   "dependencies": {
     "cypress-real-events": "^1.11.0"

@@ -1,0 +1,14 @@
+{
+    "elementName":"Shifting Content",  
+    "urlPath":"shifting_content",
+    "expectedTitle": "Shifting Content",
+    "menuElementTitle":"Shifting Content: Menu Element",
+    "imageElementTitle":"Shifting Content: Image",
+    "listElementTitle":"Shifting Content: List",
+    "example1MenuLink":"Example 1: Menu Element",
+    "example2ImageLink":"Example 2: An image",
+    "example3ListLink":"Example 3: List",
+    "newMenuPageTitle":"Shifting Content: Menu Element",
+    "appendRandomToTheMenuUrl":"?mode=random",
+    "appendRandomToTheImageUrl":"?pixel_shift=100"
+}

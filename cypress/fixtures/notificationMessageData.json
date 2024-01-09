@@ -1,0 +1,8 @@
+{
+    "elementName":"Notification Messages",  
+    "urlPath":"notification_message_rendered",
+    "expectedTitle": "Notification Message",
+    "notificationSuccessMessage":" Action successful\n×",
+    "notificationUnsuccessMessage":" Action unsuccesful, please try again\n×",
+    "clickHereLink":"Click here"  
+}

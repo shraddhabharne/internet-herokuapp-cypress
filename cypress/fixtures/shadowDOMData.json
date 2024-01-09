@@ -1,0 +1,12 @@
+{
+    "elementName":"Shadow DOM",  
+    "urlPath":"shadowdom",
+    "expectedTitle": "Simple template",
+    "paragraphText":"Let's have some different text!",
+    "backgroundColorValue":"rgb(102, 102, 102)",
+    "colorValue":"rgb(255, 255, 255)",
+    "shadowDefaultText":"My default text"
+}
+
+
+

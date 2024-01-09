@@ -1,0 +1,7 @@
+{
+    "elementName":"Redirect Link",  
+    "urlPath":"redirector",
+    "expectedTitle": "Redirection",
+    "statusCodeTitle":"Status Codes",
+    "anchorLinkToGoToStatusCode":"here"
+}

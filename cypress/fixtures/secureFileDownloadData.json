@@ -1,0 +1,9 @@
+{
+    "elementName":"Secure File Download",  
+    "urlPath":"download_secure",
+    "expectedTitle": "Secure File Downloader",
+    "basicAuthUser":"admin",
+    "basicAuthPassword":"admin",
+    "fileExtension":".txt"
+  
+}
