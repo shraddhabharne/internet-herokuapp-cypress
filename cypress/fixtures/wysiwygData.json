@@ -1,0 +1,9 @@
+{
+    "elementName":"WYSIWYG Editor",  
+    "urlPath":"tinymce",
+    "expectedTitle": "An iFrame containing the TinyMCE WYSIWYG Editor" ,
+    "newFile":"New document",
+    "textBodyData": " Content text in Bold",
+    "textBodyData2": " Content text in Italic"
+  
+}
