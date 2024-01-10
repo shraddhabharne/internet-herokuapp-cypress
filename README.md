@@ -4,8 +4,6 @@ This project uses website https://the-internet.herokuapp.com/ to implement Cypre
 
 References:
 
-The following table summarizes the documents referenced in this document:
-
 Test Plan - Template - Online 
 
 BHAraujo GitHub - Referenced to build testcases with a different logic.- https://github.com/BHAraujo/components_automation
